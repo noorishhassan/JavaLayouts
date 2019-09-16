@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/worldclock"
+        android:icon="@drawable/worldclock"
+        android:title="Worldclock"></item>
+    <item
+        android:id="@+id/alarm"
+        android:icon="@drawable/alarm"
+        android:title="Alarm"></item>
+    <item
+        android:id="@+id/bedtime"
+        android:icon="@drawable/bedtime"
+        android:title="Bedtime"></item>
+    <item
+        android:id="@+id/stopwatch"
+        android:icon="@drawable/stopwatch"
+        android:title="Stopwatch"></item>
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/account"
+        android:title="account"></item>
+    <item
+        android:id="@+id/timer"
+        android:icon="@drawable/timer"
+        android:title="Timer"></item>
+</menu>

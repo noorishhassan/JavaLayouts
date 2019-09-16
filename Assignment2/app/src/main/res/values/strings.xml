@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GUI DEMO L174002</string>
+    <string name="title_activity_tab">Tab</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="female">Female</string>
+    <string name="email_id">Email ID:</string>
+    <string name="last_name">Last Name</string>
+    <string name="male">Male</string>
+    <string name="first_name">First Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="username">username</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="posts">posts</string>
+    <string name="following">following</string>
+    <string name="followers">followers</string>
+    <string name="_217">217</string>
+    <string name="_3431">3431</string>
+    <string name="_6530">6530</string>
+    <string name="todo">TODO</string>
+    <string name="blink_better_affiliate_links">Blink: Better Affiliate Links</string>
+    <string name="squibner_llc">Squibner LLC</string>
+    <string name="update">UPDATE</string>
+    <string name="what_s_new">What\'s New</string>
+    <string name="version_2_7">Version 2.7</string>
+    <string name="what_s_new_text">- Improved Music Linking Support\n- Improved user interface\n- Better support for converting short URLs to long URLs</string>
+</resources>

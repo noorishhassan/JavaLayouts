@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".LinearLayout">
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alarms" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/add" />
+    </com.google.android.material.tabs.TabLayout>
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="4:00 AM"
+        android:textSize="30sp" />
+
+    <Switch
+        android:id="@+id/switch3"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="4:15 AM"
+        android:textSize="30sp" />
+
+    <Switch
+        android:id="@+id/switch4"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="4:20 AM"
+        android:textSize="30sp" />
+
+    <Switch
+        android:id="@+id/switch5"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="4:30 AM"
+        android:textSize="30sp" />
+
+    <Switch
+        android:id="@+id/switch6"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="4:45 AM"
+        android:textSize="30sp" />
+
+    <Switch
+        android:id="@+id/switch7"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="5:10 AM"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/worldclock" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/alarm" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/bedtime" />
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/stopwatch" />
+
+
+        <com.google.android.material.tabs.TabItem
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/timer" />
+
+
+    </com.google.android.material.tabs.TabLayout>
+
+
+</LinearLayout>
+
